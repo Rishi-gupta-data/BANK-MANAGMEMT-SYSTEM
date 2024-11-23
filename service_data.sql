@@ -1,0 +1,35 @@
+use bank;
+INSERT INTO `service` (`Transaction_Id`, `Service_Type`, `Service_Amount`, `Service_Date`)
+VALUES
+(1, 'Account Setup', 100.00, '2024-11-01'),
+(2, 'Account Maintenance', 50.00, '2024-11-02'),
+(3, 'Account Setup', 100.00, '2024-11-03'),
+(4, 'Account Maintenance', 50.00, '2024-11-04'),
+(5, 'ATM Withdrawal', 20.00, '2024-11-05'),
+(6, 'Transfer Fee', 15.00, '2024-11-06'),
+(7, 'Account Setup', 100.00, '2024-11-07'),
+(8, 'ATM Withdrawal', 20.00, '2024-11-08'),
+(9, 'Account Maintenance', 50.00, '2024-11-09'),
+(10, 'Transfer Fee', 15.00, '2024-11-10'),
+
+(11, 'Account Setup', 100.00, '2024-11-11'),
+(12, 'Account Maintenance', 50.00, '2024-11-12'),
+(13, 'Account Setup', 100.00, '2024-11-13'),
+(14, 'Account Maintenance', 50.00, '2024-11-14'),
+(15, 'ATM Withdrawal', 20.00, '2024-11-15'),
+(16, 'Transfer Fee', 15.00, '2024-11-16'),
+(17, 'Account Setup', 100.00, '2024-11-17'),
+(18, 'ATM Withdrawal', 20.00, '2024-11-18'),
+(19, 'Account Maintenance', 50.00, '2024-11-19'),
+(20, 'Transfer Fee', 15.00, '2024-11-20'),
+
+(21, 'Account Setup', 100.00, '2024-11-21'),
+(22, 'Account Maintenance', 50.00, '2024-11-22'),
+(23, 'Account Setup', 100.00, '2024-11-23'),
+(24, 'Account Maintenance', 50.00, '2024-11-24'),
+(25, 'ATM Withdrawal', 20.00, '2024-11-25'),
+(26, 'Transfer Fee', 15.00, '2024-11-26'),
+(27, 'Account Setup', 100.00, '2024-11-27'),
+(28, 'ATM Withdrawal', 20.00, '2024-11-28'),
+(29, 'Account Maintenance', 50.00, '2024-11-29'),
+(30, 'Transfer Fee', 15.00, '2024-11-30');
