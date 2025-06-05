@@ -94,3 +94,5 @@ Tracks services provided to accounts and links them with transactions.
 
 ## Author
 Created with a focus on robust and scalable database management solutions for banking operations.
+
+**Rishi Gupta**  
